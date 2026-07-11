@@ -10,6 +10,6 @@ def read_root():
 def read_status():
     return {
         "status": "healthy",
-        "active_model": "mock-llm-v1",
+        "active_model": "Steph 001",
         "gpu_available": False
     }
